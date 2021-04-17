@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+# I am a lonely boy in a lonely world 
 Use the left arrow to go back!
